@@ -1,0 +1,15 @@
+.cardn {
+
+    max-width: 60%;
+    left: 20%;
+    margin-top: 5rem;
+}
+
+@media (max-width:600px) {
+    .cardn {
+
+        max-width: 100%;
+        left: 0%;
+        top: 20%;
+    }
+}

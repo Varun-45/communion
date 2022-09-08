@@ -1,0 +1,43 @@
+/* body {
+    height: 100vh;
+    background: linear-gradient(to right,
+            paleturquoise 0%,
+            paleturquoise 50%,
+            white 50%,
+            white 100%);
+}
+
+.homepage {
+
+    display: flex;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.homepageinfo {
+    display: flex;
+    flex-direction: column;
+}
+
+.css-button-gradient--1 {
+    width: 20%;
+    color: black;
+    color: blue;
+    padding: 5px 10px;
+    left: 40%;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 1s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    border-radius: 5px;
+    border: none;
+
+    background-image: linear-gradient(to right,
+            white 0%,
+            white 50%, paleturquoise 50%,
+            paleturquoise 100%);
+} */
